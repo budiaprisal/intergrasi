@@ -1,0 +1,21 @@
+.cover {
+    padding-top: 30px;
+    background-color: black;
+}
+
+.profile__custom {
+    width: 650px;
+    height: 450px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.profile_1 {
+    width: 50%;
+    height: 100%;
+}
+
+.profile_2 {
+    width: 50%;
+    height: 100%;
+}
